@@ -13,37 +13,37 @@ The **Multiple Disease Prediction System Using Machine Learning** is an innovati
 
 ## Key Features and Solutions
 
-1.**Predictive Accuracy**:
+**1.Predictive Accuracy**:
 
 - Utilizes pre-trained SVM and Logistic Regression models for accurate predictions.
 - Focuses on multiple diseases, including diabetes, heart disease, and Parkinson's disease.
 
-2.**User-Friendly Interface**:
+**2.User-Friendly Interface**:
 
 - Designed with an intuitive and user-friendly interface for easy input of health parameters.
 - Ensures accessibility for individuals with varying levels of technical proficiency.
 
-3.**Privacy and Data Security**:
+**3.Privacy and Data Security**:
 
 - Implements robust privacy measures to safeguard user data.
 - Uses secure data transmission and storage protocols.
 
-4.**Educational Insights**:
+**4.Educational Insights**:
 
 - Provides educational insights along with predictions to empower users in making informed decisions about their health.
 - Suggests proactive measures such as lifestyle changes and early consultations.
 
-5.**Comprehensive Data Analysis**:
+**5.Comprehensive Data Analysis**:
 
 - Performs thorough data analysis, including statistical measures and exploratory data analysis, to gain insights into the dataset.
 - Ensures data standardization to mitigate issues related to feature scaling.
 
-6.**Real-World Application**:
+**6.Real-World Application**:
 
 - Demonstrates the real-world application of the system by making predictions based on standardized input data.
 - Showcases the effectiveness of the proposed system in early disease detection.
 
-7.**Collaboration with Medical Professionals**:
+**7.Collaboration with Medical Professionals**:
 
 - Provides a platform for collaboration between users and medical professionals based on the predictive results.
 - Assists medical professionals in early detection and patient management.
@@ -106,23 +106,23 @@ streamlit run app.py
 
 We welcome contributions to enhance the capabilities and features of this project. Please follow these steps to contribute:
 
-1.Fork the Repository: 
+**1.Fork the Repository**: 
 
 Click on the 'Fork' button at the top right corner of this page.
 
-2.Clone Your Fork:
+**2.Clone Your Fork**:
 
 git clone https://github.com/uharika77/ML-web-app.git
 
 cd ML-web-app
 
-3.Create a New Branch:
+**3.Create a New Branch**:
 
 git checkout -b feature/your-feature-name
 
-4.Make Your Changes.
+**4.Make Your Changes**.
 
-5.Commit and Push:
+**5.Commit and Push**:
 
 git add .
 
@@ -130,7 +130,7 @@ git commit -m "Add feature: your-feature-name"
 
 git push origin feature/your-feature-name
 
-6.Submit a Pull Request: 
+**6.Submit a Pull Request**: 
 
 Go to your fork on GitHub and click on the 'New Pull Request' button.
 
