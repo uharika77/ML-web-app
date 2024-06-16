@@ -88,17 +88,17 @@ The **Multiple Disease Prediction System Using Machine Learning** is an innovati
 
 ## Setup Instructions
 
-**i.Clone the Repository**:
+**i. Clone the Repository**:
 
 git clone https://github.com/uharika77/ML-web-app.git
 
 cd ML-web-app
 
-**ii.Install Dependencies**:
+**ii. Install Dependencies**:
 
 pip install -r requirements.txt
 
-**iii.Run the Application**:
+**iii. Run the Application**:
 
 streamlit run app.py
 
