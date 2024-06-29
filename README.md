@@ -124,7 +124,7 @@ We welcome contributions to enhance the capabilities and features of this projec
 
 **5. Commit and Push**:
 
-  git add .
+  git add
 
   git commit -m "Add feature: your-feature-name"
 
