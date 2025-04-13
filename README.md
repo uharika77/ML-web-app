@@ -138,3 +138,8 @@ We welcome contributions to enhance the capabilities and features of this projec
 
 [Click here for screenshots](https://drive.google.com/drive/folders/1ESCNmByDSHDi89f-lAo21hA4FrHWbfFl?usp=share_link)
 
+## DEMO:
+
+[Try here](https://ml-web-app-arqknncvqv3rtmv3fyoevv.streamlit.app)
+
+
